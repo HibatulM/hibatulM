@@ -21,7 +21,7 @@ Here are some of the technologies I work with:
 
 
 ## Intresting Facts
-- I participated in SparksHacks 2025 hosted at University of Illinois at Chicago. Our team chose to focus on the Small biz, big impact track.
+- I participated in SparksHacks 2025 hosted at University of Illinois at Chicago. Our team chose to focus on the Small biz, big impact track. See the pinned projects for more details!
 
 
 
