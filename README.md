@@ -20,8 +20,8 @@ Here are some of the technologies I work with:
 **Tools**: Git, VSCode
 
 
-
-
+## Intresting Facts
+- I participated in SparksHacks 2025 hosted at University of Illinois at Chicago. Our team chose to focus on the Small biz, big impact track.
 
 
 
