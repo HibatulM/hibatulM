@@ -14,8 +14,10 @@ I am Hibatul Muqeet. I am currently studying Computer Science with a concentrati
 Here are some of the technologies I work with:
 
 **Languages**: Python, JavaScript, Java, C, C++, HTML, CSS
+
 **Frameworks**: React
-**Tools**: Git
+
+**Tools**: Git, VSCode
 
 
 
