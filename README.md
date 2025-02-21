@@ -7,7 +7,7 @@ I am Hibatul Muqeet. I am currently studying Computer Science with a concentrati
 
 ## What I do
 - Currently I am working on developing my own personal website
-- I'm learning about Languages and automata at my University and learning about Web Development from codepath.
+- I'm learning about Languages and automata at my University and about Web Development from codepath.
 - Reach out to me at LinkedIn!
 
 ## Tech Stack
